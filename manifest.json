@@ -1,0 +1,22 @@
+{
+  "name": "Rizqi Plat",
+  "short_name": "Rizqi Plat",
+  "description": "Cetak plat nomor custom motor & mobil di Banda Aceh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#FFDE00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
